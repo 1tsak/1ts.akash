@@ -9,14 +9,14 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://youtube.com/AKBROS#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/AKBROS#gh-dark-mode-only)
+[![website](youtube-light.svg)](https://youtube.com/AKBROS#gh-light-mode-only)
+[![website](youtube-dark.svg)](https://youtube.com/AKBROS#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/aakash-jha-b28221218#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/aakash-jha-b28221218#gh-dark-mode-only)
+[![website](linkedin-light.svg)](https://www.linkedin.com/in/aakash-jha-b28221218#gh-light-mode-only)
+[![website](linkedin-dark.svg)](https://www.linkedin.com/in/aakash-jha-b28221218#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/1ts.akash#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/1ts.akash#gh-dark-mode-only)
+[![website](instagram-light.svg)](https://instagram.com/1ts.akash#gh-light-mode-only)
+[![website](instagram-dark.svg)](https://instagram.com/1ts.akash#gh-dark-mode-only)
 
 **Languages and Tools:**  
 
