@@ -1,4 +1,3 @@
-# Hey!
 
 # Hey there, Its Aakash👋 
 
