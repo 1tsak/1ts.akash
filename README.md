@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Vue Js
 - 👯 I’m looking to collaborate in more open source projects
 - 🥅 2022 Goals: Learn more about frontend web frameworks
-- ⚡ Fun fact: I love to listen music
+- ⚡ Fun fact: I love to listen music 24 hours 😵
 
 ### Connect with me:
 
