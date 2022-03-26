@@ -2,7 +2,7 @@
 # Hey there, Its Aakash👋 
 
 - 🌱 I’m currently learning Vue Js
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate in more open source projects
 - 🥅 2022 Goals: Learn more about frontend web frameworks
 - ⚡ Fun fact: I love to listen music
 
