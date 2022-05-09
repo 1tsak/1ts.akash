@@ -1,7 +1,9 @@
 
-# Hey there, Its Aakash👋 
+# Hey there, Its Aakash<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🌱 I’m currently learning Vue Js
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&&color=ff652f&size=18&lines=I'm+an+Android+Deveoper.;A+Web+Developer.;A+Youtuber.;Will+Love+to+Argue+about+your+line+of+code.)](https://git.io/typing-svg)
+
+- 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate in more open source projects
 - 🥅 2022 Goals: Learn more about frontend web frameworks
 - ⚡ Fun fact: I love to listen music 24 hours 😵
@@ -19,12 +21,25 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/32/000000/javascript.png"/> </a> 
+    <a href="https://php.net" target="_blank"> <img src="https://img.icons8.com/cute-clipart/32/android.png"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/32/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/32/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/32/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/32/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/32/000000/nodejs.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/32/000000/mysql-logo.png"/> </a>
+    <a href="https://vuejs.org" target="_blank"> <img src="https://img.icons8.com/color/32/000000/vue-js.png"/> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/32/000000/firebase.png"/> </a>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="32" height="32"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/32/000000/git.png"/> </a>
+    <a href="https://cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://php.net" target="_blank"> <img src="https://img.icons8.com/dusk/32/php-logo.png"/> </a>
+    
+  
+</p> 
 
 
 
@@ -33,6 +48,7 @@
 
 
   <summary>:zap: GitHub Stats</summary>
+  <br>
 
   <img align="left" alt="1tsak's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=1tsak&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
