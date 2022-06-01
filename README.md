@@ -1,5 +1,5 @@
 
-# Hey there, Its Aakash<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there, Its Aakash<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&&color=ff652f&size=18&lines=I'm+an+Android+Deveoper.;A+Web+Developer.;A+Youtuber.;Will+Love+to+Argue+about+your+line+of+code.)](https://git.io/typing-svg)
 
