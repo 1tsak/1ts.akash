@@ -44,9 +44,6 @@
 
 
 
-
-
-
   <summary>:zap: GitHub Stats</summary>
   <br>
 
@@ -55,3 +52,5 @@
 [youtube]: https://youtube.com/AKBROS
 [instagram]: https://instagram.com/1ts.akash
 [linkedin]: https://www.linkedin.com/in/aakash-jha-b28221218
+
+![](https://hit.yhype.me/github/profile?user_id=42407874)
