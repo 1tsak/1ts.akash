@@ -42,6 +42,9 @@
 </p> 
 
 
+#### Now Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ywmblg5purfamjx64tikzsvgzq&cover_image=true&theme=novatorem&bar_color=5fff57&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
   <summary>:zap: GitHub Stats</summary>
@@ -54,3 +57,5 @@
 [linkedin]: https://www.linkedin.com/in/aakash-jha-b28221218
 
 ![](https://hit.yhype.me/github/profile?user_id=42407874)
+
+
