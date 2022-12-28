@@ -1,4 +1,3 @@
-
 # Hey there, Its Aakash<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&&color=ff652f&size=18&lines=I'm+an+Android+Deveoper.;A+Web+Developer.;A+Youtuber.;Will+Love+to+Argue+about+your+line+of+code.)](https://git.io/typing-svg)
@@ -10,16 +9,16 @@
 
 ### Connect with me:
 
-[![website](youtube-light.svg)](https://youtube.com/AKBROS#gh-light-mode-only)
-[![website](youtube-dark.svg)](https://youtube.com/AKBROS#gh-dark-mode-only)
+[![yt](imgs/youtube-light.svg)](https://youtube.com/AKBROS#gh-light-mode-only)
+[![yt](imgs/youtube-dark.svg)](https://youtube.com/AKBROS#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](linkedin-light.svg)](https://www.linkedin.com/in/aakash-jha-b28221218#gh-light-mode-only)
-[![website](linkedin-dark.svg)](https://www.linkedin.com/in/aakash-jha-b28221218#gh-dark-mode-only)
+[![linkedin](imgs/linkedin-light.svg)](https://www.linkedin.com/in/aakash-jha-b28221218#gh-light-mode-only)
+[![linkedin](imgs/linkedin-dark.svg)](https://www.linkedin.com/in/aakash-jha-b28221218#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](instagram-light.svg)](https://instagram.com/1ts.akash#gh-light-mode-only)
-[![website](instagram-dark.svg)](https://instagram.com/1ts.akash#gh-dark-mode-only)
+[![instagram](imgs/instagram-light.svg)](https://instagram.com/1ts.akash#gh-light-mode-only)
+[![instagram](imgs/instagram-dark.svg)](https://instagram.com/1ts.akash#gh-dark-mode-only)
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png"/> </a>
@@ -39,23 +38,17 @@
     <a href="https://php.net" target="_blank"> <img src="https://img.icons8.com/dusk/32/php-logo.png"/> </a>
     
   
-</p> 
-
+</p>
 
 #### Now Playing
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ywmblg5purfamjx64tikzsvgzq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ywmblg5purfamjx64tikzsvgzq&redirect=true)
-
 
   <summary>:zap: GitHub Stats</summary>
   <br>
 
   <img align="left" alt="1tsak's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=1tsak&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-[youtube]: https://youtube.com/AKBROS
-[instagram]: https://instagram.com/1ts.akash
-[linkedin]: https://www.linkedin.com/in/aakash-jha-b28221218
 
-![](https://hit.yhype.me/github/profile?user_id=42407874)
 
 
