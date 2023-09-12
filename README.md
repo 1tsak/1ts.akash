@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&&color=ff652f&size=18&lines=I'm+an+Android+Deveoper.;A+Web+Developer.;A+Youtuber.;Will+Love+to+Argue+about+your+line+of+code.)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning Game Dev
+- 🌱 I’m currently learning UE5
 - 👯 I’m looking to collaborate in more open source projects
-- 🥅 2022 Goals: Learn more about frontend web frameworks
+- 🥅 2022 Goals: Publish my first game 💕
 - ⚡ Fun fact: I love to listen music 24 hours 😵
 
 ### Connect with me:
