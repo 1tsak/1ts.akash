@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning UE5
 - 👯 I’m looking to collaborate in more open source projects
-- 🥅 2022 Goals: Publish my first game 💕
+- 🥅 2024 Goals: Publish my first game 💕
 - ⚡ Fun fact: I love to listen music 24 hours 😵
 
 ### Connect with me:
